@@ -1,0 +1,4 @@
+
+* Overview
+  This repo is used to learn and play with [[http://go-colly.org/][Colly]] package which is a Fast and
+  Elegant Scraping Framework for Gophers.
